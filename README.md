@@ -57,8 +57,8 @@ El proyecto implementa el patrón arquitectónico **Modelo-Vista-Controlador (MV
                                                        Invoca Lógica de Negocio
                                                                  ▼
  ┌────────────────┐                                 ┌────────────────────────┐
- │  BANCO DATOS   │ <────────────────────────────── │    GESTOR / MODELO     |
- │ (Repositorio)  │    Persistencia en Memoria    | (POO, Reglas y Valid) |
+ │  BANCO DATOS   │ <────────────────────────────── │     GESTOR / MODELO    |
+ │ (Repositorio)  │    Persistencia en Memoria      |  (POO, Reglas y Valid) |
  └────────────────┘                                 └────────────────────────┘
 
 ```
