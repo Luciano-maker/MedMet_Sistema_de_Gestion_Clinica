@@ -40,7 +40,7 @@ El sistema se organiza en dos perfiles operativos diferenciados bajo control de 
 
   * Carga de diagnóstico, hallazgos clínicos y plan terapéutico / farmacológico.
 
-  * Cierre de atención con transición automática del turno a estado *"Atendido"*.
+  * Cierre de atención con transición automática del turno a estado *"Finalizado"*.
 
 * **Buscador General de Expedientes:** Consulta histórica de historias clínicas e intervenciones por DNI o apellido de paciente.
 
